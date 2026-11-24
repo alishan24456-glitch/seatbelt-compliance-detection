@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+output.mp4
+output_events.log
+output_summary.txt
+yolov8n.pt
